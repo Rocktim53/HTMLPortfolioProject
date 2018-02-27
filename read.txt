@@ -1,0 +1,3 @@
+install node 
+a)npm install
+b)npm start
